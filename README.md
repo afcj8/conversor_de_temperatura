@@ -1,7 +1,7 @@
 <h1>🌡️ Conversor de Temperatura</h1>
 
 <h2>⚡ Projeto</h2>
-O usuário seleciona a escala de temperatura inicial, seleciona a escala de temperatura final, e insere o valor da temperatura, por fim o programa retorna o valor convertido. Nesta aplicação, utilizo as linguagens Html, Css e Javascript.
+O usuário seleciona a escala de temperatura inicial, seleciona a escala de temperatura final, e insere o valor da temperatura, por fim o programa retorna o valor convertido.
 
 Link do programa: https://afcj8.github.io/Conversor_de_Temperatura/
 
