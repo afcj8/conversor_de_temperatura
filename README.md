@@ -3,7 +3,7 @@
 <h2>⚡ Projeto</h2>
 O usuário seleciona a escala de temperatura inicial, seleciona a escala de temperatura final, e insere o valor da temperatura, por fim o programa retorna o valor convertido.
 
-Link do programa: https://afcj8.github.io/Conversor_de_Temperatura/
+Link do programa: https://afcj8.github.io/conversor_de_temperatura/
 
 ![image](https://user-images.githubusercontent.com/102259875/221922165-c640c686-fd1a-4271-b27b-376d21ab05be.png)
 ![image](https://user-images.githubusercontent.com/102259875/221922267-4ff12327-7a0c-4da7-8ad5-810e2a139597.png)
